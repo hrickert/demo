@@ -14,7 +14,7 @@
      "id": 2, 
      "name": "brok2.com.ar", 
      "branding": "mtz-default", 
-     "enabled": true, 
+     "enabled": false, 
      "passwordless_login_enabled": false, 
      "is_client": false, 
      "external_broker_id": 22,
