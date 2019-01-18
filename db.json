@@ -9,7 +9,7 @@
       "is_client": true, 
       "external_broker_id": 11,
       "image": "https://themerkle.com/wp-content/uploads/2017/05/bitcoin-broker.jpg",
-      "account_id": 1,
+      "account_id": 1
     },
     { 
      "id": 2, 
@@ -20,16 +20,17 @@
      "is_client": false, 
      "external_broker_id": 22,
      "image": "https://images-na.ssl-images-amazon.com/images/I/51EG732BV3L.jpg",
-     "account_id": 2,
+     "account_id": 2
     }
   ],
   "accounts":[
     {
       "id": 1,
-      "name": "Cuenta 1",
-    },{
+      "name": "Cuenta 1"
+    },
+    {
       "id": 2,
-      "name": "Cuenta 2",
+      "name": "Cuenta 2"
     }
   ]
 }
