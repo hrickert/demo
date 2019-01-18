@@ -10,8 +10,7 @@
       "external_broker_id": 11,
       "image": "img",
       "account_id": 1
-    },
-    { 
+    }, { 
      "id": 2, 
      "name": "brok2.com.ar", 
      "branding": "mtz-default", 
@@ -27,8 +26,7 @@
     {
       "id": 1,
       "name": "Cuenta 1"
-    },
-    {
+    }, {
       "id": 2,
       "name": "Cuenta 2"
     }
