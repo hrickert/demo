@@ -8,7 +8,7 @@
       "passwordless_login_enabled": false, 
       "is_client": true, 
       "external_broker_id": 11,
-      "image": "https://themerkle.com/wp-content/uploads/2017/05/bitcoin-broker.jpg",
+      "image": "img",
       "account_id": 1
     },
     { 
@@ -19,7 +19,7 @@
      "passwordless_login_enabled": false, 
      "is_client": false, 
      "external_broker_id": 22,
-     "image": "https://images-na.ssl-images-amazon.com/images/I/51EG732BV3L.jpg",
+     "image": "img",
      "account_id": 2
     }
   ],
