@@ -1,7 +1,7 @@
 {
   "brokers": [
-    { "id": 1, "name": "Broker1.com", "branding": "mtz-default", "enabled": true, "passwordless_login_enabled": false, "is_client": true, "external_broker_id": 1 },
-    { "id": 1, "name": "matriz.com,ar", "branding": "mtz-default", "enabled": true, "passwordless_login_enabled": false, "is_client": false, "external_broker_id": 2 }
+    { "id": 1, "name": "brok1.com", "branding": "mtz-default", "enabled": true, "passwordless_login_enabled": false, "is_client": true, "external_broker_id": 1 },
+    { "id": 1, "name": "brok2.com,ar", "branding": "mtz-default", "enabled": true, "passwordless_login_enabled": false, "is_client": false, "external_broker_id": 2 }
   ],
   "context": {
     "username": "User Test",
