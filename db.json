@@ -22,7 +22,7 @@
      "account_id": 2
     }
   ],
-  "accounts":[
+  "brokerAccounts":[
     {
       "id": 1,
       "name": "Cuenta 1"
@@ -30,5 +30,13 @@
       "id": 2,
       "name": "Cuenta 2"
     }
-  ]
+  ],
+  "users": [].
+  "marketSegments": [],
+  "roles": [],
+  "scurities": [],
+  "order": [],
+  "orderEvents": [],
+  "series": [],
+  "auditLogs": []
 }
