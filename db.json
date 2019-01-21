@@ -1,5 +1,17 @@
 {
-    "brokers": [],
+    "brokers": [
+    { 
+      "id": 1, 
+      "name": "brok1.com", 
+      "branding": "mtz-default", 
+      "enabled": true, 
+      "passwordless_login_enabled": false, 
+      "is_client": true, 
+      "external_broker_id": 11,
+      "image": "img",
+      "account_id": 1
+    }
+  ],
     "brokerAccounts": [],
     "users": [],
     "marketSegments": [],
