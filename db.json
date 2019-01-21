@@ -1,32 +1,6 @@
 {
-    "brokers": [{
-        "id": 1,
-        "name": "brok1.com",
-        "branding": "mtz-default",
-        "enabled": true,
-        "passwordlessLoginEnabled": false,
-        "isClient": true,
-        "externalBrokerId": 11,
-        "image": "img",
-        "accountId": 1
-    }, {
-        "id": 2,
-        "name": "brok2.com.ar",
-        "branding": "mtz-default",
-        "enabled": false,
-        "passwordlessLoginEnabled": false,
-        "isClient": false,
-        "external_broker_id": 22,
-        "image": "img",
-        "accountId": 2
-    }],
-    "brokerAccounts": [{
-        "id": 1,
-        "name": "Cuenta 1"
-    }, {
-        "id": 2,
-        "name": "Cuenta 2"
-    }],
+    "brokers": [],
+    "brokerAccounts": [],
     "users": [],
     "marketSegments": [],
     "roles": [],
