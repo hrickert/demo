@@ -31,6 +31,12 @@
         "isClient": true,
         "externalBrokerId": "11",
         "image": "img",
-        "accountId": "1"
+        "accounts": [{
+            "account": "9001"
+        }, {
+            "account": "9002"
+        }, {
+            "account": "9003"
+        }]
     }]
 }
