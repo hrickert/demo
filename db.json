@@ -6,13 +6,18 @@
         "enabled": true,
         "fullName": "User Uno",
         "brokerId": "2",
-        "defaultAccount": "11",
+        "defaultAccount": "9000",
+        "additionalAccounts": [{
+            "account": "9001"
+        }],
         "marketSegments": [{
             "name": "rx_DDA"
         },{
             "name": "rx_DDF"
         }],
-        "userRoles": ["22"],
+        "userRoles": [{
+            "roleName": "ROLE_BROKER_ADMIN"
+        }],
         "googleEmail": "user1@gmail.com"
     }],
         "brokers": [{
@@ -27,13 +32,5 @@
         "externalBrokerId": "11",
         "image": "img",
         "accountId": "1"
-    }],
-    "userRoles": [{
-        "id": "22",
-        "roleName": "ROLE_BROKER_ADMIN"
-    }],
-    "accounts": [{
-        "id": "11",
-        "account": "9001"
     }]
 }
