@@ -30,13 +30,16 @@
         "passwordlessLoginEnabled": false,
         "isClient": true,
         "externalBrokerId": "11",
-        "image": "img",
-        "accounts": [{
-            "account": "9001"
-        }, {
-            "account": "9002"
-        }, {
-            "account": "9003"
-        }]
+        "image": "img"
+    }],
+    "brokerAccounts": [{
+        "broker": "11",
+        "account": "9001"
+    }, {
+        "broker": "11",
+        "account": "9002"
+    }, {
+        "broker": "11",
+        "account": "9003"
     }]
 }
