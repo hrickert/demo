@@ -6,9 +6,9 @@
         "enabled": true,
         "fullName": "User Uno",
         "brokerId": "2",
-        "defaultAccount": "9000",
+        "defaultAccount": "11",
         "marketSegments": ["rx_DDA", "rx_DDF"],
-        "userRoles": ["ROLE_BROKER_ADMIN"],
+        "userRoles": ["22"],
         "googleEmail": "user1@gmail.com"
     }],
         "brokers": [{
@@ -27,11 +27,11 @@
         "name": "brok1.com"
     }],
     "userRoles": [{
-        "id": "2",
+        "id": "22",
         "roleName": "ROLE_BROKER_ADMIN"
     }],
-    "userAccounts": [{
-        "id": "2",
+    "accounts": [{
+        "id": "11",
         "account": "9001"
     }]
 }
