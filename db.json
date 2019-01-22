@@ -7,7 +7,7 @@
         "fullName": "User Uno",
         "brokerId": "2",
         "defaultAccount": "9000",
-        "additionalAccounts": [{
+        "additionalsAccounts": [{
             "account": "9001"
         }],
         "marketSegments": [{
