@@ -7,7 +7,7 @@
         "fullName": "User Uno",
         "brokerId": "2",
         "defaultAccount": "11",
-        "marketSegments": ["rx_DDA", "rx_DDF"],
+        "marketSegments": ["33", "34"],
         "userRoles": ["22"],
         "googleEmail": "user1@gmail.com"
     }],
@@ -23,8 +23,11 @@
         "accountId": "1"
     }],
     "marketSegments": [{
-        "id": "2",
-        "name": "brok1.com"
+        "id": "33",
+        "name": "rx_DDA"
+    },{
+        "id": "34",
+        "name": "rx_DDF"
     }],
     "userRoles": [{
         "id": "22",
