@@ -22,7 +22,16 @@
         "image": "img",
         "accountId": "1"
     }],
-    "marketSegments": [],
-    "userRoles": [],
-    "userAccounts": []
+    "marketSegments": [{
+        "id": "2",
+        "name": "brok1.com"
+    }],
+    "userRoles": [{
+        "id": "2",
+        "roleName": "ROLE_BROKER_ADMIN"
+    }],
+    "userAccounts": [{
+        "id": "2",
+        "account": "9001"
+    }]
 }
