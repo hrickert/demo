@@ -1,6 +1,5 @@
 {
-    "users": [
-    {
+    "users": [{
         "id": "1",
         "instance": "demo",
         "username": "user1",
@@ -11,6 +10,16 @@
         "marketSegments": ["rx_DDA", "rx_DDF"],
         "userRoles": ["ROLE_BROKER_ADMIN"],
         "googleEmail": "user1@gmail.com"
-    }
-    ]
+    }],
+        "brokers": [{
+        "id": "2",
+        "name": "brok1.com",
+        "branding": "mtz-default",
+        "enabled": true,
+        "passwordlessLoginEnabled": false,
+        "isClient": true,
+        "externalBrokerId": "11",
+        "image": "img",
+        "accountId": "1"
+    }]
 }
