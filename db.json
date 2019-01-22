@@ -21,5 +21,8 @@
         "externalBrokerId": "11",
         "image": "img",
         "accountId": "1"
-    }]
+    }],
+    "marketSegments": [],
+    "userRoles": [],
+    "userAccounts": []
 }
