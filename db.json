@@ -13,8 +13,10 @@
     }],
         "brokers": [{
         "id": "2",
+        "instance": "demo",
         "name": "brok1.com",
-        "branding": "mtz-default",
+        "theme": "mtz-default",
+        "businessName": "???????"
         "enabled": true,
         "passwordlessLoginEnabled": false,
         "isClient": true,
