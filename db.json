@@ -32,13 +32,10 @@
             "externalBrokerId": "11",
             "image": "img",
             "brokerAccounts": [{
-                "broker": "11",
                 "account": "9001"
             }, {
-                "broker": "11",
                 "account": "9002"
             }, {
-                "broker": "11",
                 "account": "9003"
             }]
     }]
