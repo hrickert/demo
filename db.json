@@ -8,10 +8,8 @@
         "brokerId": "2",
         "defaultAccount": "11",
         "marketSegments": [{
-            "id": "33",
             "name": "rx_DDA"
         },{
-            "id": "34",
             "name": "rx_DDF"
         }],
         "userRoles": ["22"],
