@@ -16,7 +16,7 @@
         "instance": "demo",
         "name": "brok1.com",
         "theme": "mtz-default",
-        "businessName": "???????"
+        "businessName": "???????",
         "enabled": true,
         "passwordlessLoginEnabled": false,
         "isClient": true,
