@@ -21,25 +21,25 @@
         "googleEmail": "user1@gmail.com"
     }],
         "brokers": [{
-        "id": "2",
-        "instance": "demo",
-        "name": "brok1.com",
-        "theme": "mtz-default",
-        "businessName": "aaaa",
-        "enabled": true,
-        "passwordlessLoginEnabled": false,
-        "isClient": true,
-        "externalBrokerId": "11",
-        "image": "img"
-    }],
-    "brokerAccounts": [{
-        "broker": "11",
-        "account": "9001"
-    }, {
-        "broker": "11",
-        "account": "9002"
-    }, {
-        "broker": "11",
-        "account": "9003"
+            "id": "2",
+            "instance": "demo",
+            "name": "brok1.com",
+            "theme": "mtz-default",
+            "businessName": "aaaa",
+            "enabled": true,
+            "passwordlessLoginEnabled": false,
+            "isClient": true,
+            "externalBrokerId": "11",
+            "image": "img",
+            "brokerAccounts": [{
+                "broker": "11",
+                "account": "9001"
+            }, {
+                "broker": "11",
+                "account": "9002"
+            }, {
+                "broker": "11",
+                "account": "9003"
+            }]
     }]
 }
