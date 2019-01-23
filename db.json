@@ -41,28 +41,6 @@
                 "account": "9003"
             }]
     }],
-    "instances": [
-        {
-            "id": "1",
-            "name": "demo-test",
-            "url": "demo-test.url"
-        }
-    ],
-    "market_segments": [
-        {
-            "id": "1",
-            "instance": "demo-test",
-            "name": "rx_DDF",
-            "status": "online"
-        }
-    ],
-    "accounts": [
-        {
-            "id": "1",
-            "instance": "demo-test",
-            "account": "9001"
-        }
-    ],
     "broker_accounts": [
         {
             "id": "1",
