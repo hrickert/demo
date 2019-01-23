@@ -11,9 +11,11 @@
             "account": "9001"
         }],
         "marketSegments": [{
-            "name": "rx_DDA"
+            "name": "rx_DDA",
+            "enabled": true
         },{
-            "name": "rx_DDF"
+            "name": "rx_DDF",
+            "enabled": true
         }],
         "userRoles": [{
             "roleName": "ROLE_BROKER_ADMIN"
