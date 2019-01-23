@@ -47,5 +47,12 @@
             "name": "demo-test",
             "url": "demo-test.url"
         }
+    ],
+    "market_segments": [
+        {
+            "id": "1",
+            "instance": "demo-test",
+            "name": "rx_DDF"
+        }
     ]
 }
