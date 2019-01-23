@@ -55,22 +55,22 @@
         "execInst": "test",
         "timeInForce": "test",
         "stopPx": 9,
-        "expireDate": null,
+        "expireDate": "",
         "transactTime": "2019-01-23 15:59:04",
         "text": "test",
-        "fixOrderId": null,
+        "fixOrderId": "",
         "avgPx": 9,
         "lastPx": 9,
         "lastQty": 9,
         "cumQty": 9,
         "displayQty": "9,
-        "execId": null,
-        "ordStatus": null,
-        "execType": null,
-        "leavesQty": null,
-        "securityExchange": null,
-        "contraBroker": null,
-        "partyOrigTrader": null
+        "execId": "",
+        "ordStatus": "",
+        "execType": "",
+        "leavesQty": "",
+        "securityExchange": "",
+        "contraBroker": "",
+        "partyOrigTrader": ""
         }
     ]
 }
