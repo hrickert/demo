@@ -40,5 +40,12 @@
             }, {
                 "account": "9003"
             }]
-    }]
+    }],
+    "instances": [
+        {
+            "id": "1",
+            "name": "demo-test",
+            "url": "demo-test.url"
+        }
+    ]
 }
