@@ -55,5 +55,20 @@
             "name": "rx_DDF",
             "status": "online"
         }
+    ],
+    "accounts": [
+        {
+            "id": "1",
+            "instance": "demo-test",
+            "account": "9001",
+        }
+    ],
+    "broker_accounts": [
+        {
+            "id": "1",
+            "instance": "demo-test",
+            "broker": "11",
+            "account": "1"
+        }
     ]
 }
