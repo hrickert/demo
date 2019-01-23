@@ -52,7 +52,8 @@
         {
             "id": "1",
             "instance": "demo-test",
-            "name": "rx_DDF"
+            "name": "rx_DDF",
+            "status": "online"
         }
     ]
 }
