@@ -83,5 +83,18 @@
             "userSessionType": "ustyp",
             "dataB": "{\"valor\": \"zaraza\"}"
         }
-    ]
+    ],
+    "market_segments": [
+        {
+            "id": "1",
+            "instance": "demo-test",
+            "name": "rx_DDF",
+            "status": "online"
+        }, {
+            "id": "2",
+            "instance": "demo-test",
+            "name": "rx_DDA",
+            "status": "online"
+        }
+    ]   
 }
