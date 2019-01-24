@@ -81,7 +81,7 @@
             "userId": "1",
             "userSessionId": "usid",
             "userSessionType": "ustyp",
-            "dataB": {"valor": "zaraza"}
+            "dataB": "{"valor": "zaraza"}"
         }
     ]
 }
