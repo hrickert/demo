@@ -84,7 +84,7 @@
             "dataB": "{\"valor\": \"zaraza\"}"
         }
     ],
-    "market_segments": [
+    "reference_data": [
         {
             "id": "1",
             "instance": "demo-test",
