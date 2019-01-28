@@ -41,38 +41,7 @@
                 "account": "9003"
             }]
     }],
-    "orders": [
-        {
-        "id": "1",
-        "instance": "demo-test",
-        "account": "1",
-        "symbol": "DOEne45",
-        "clOrdId": "test",
-        "orderQty": 9,
-        "ordType": "test",
-        "price": "9",
-        "side": "test",
-        "execInst": "test",
-        "timeInForce": "test",
-        "stopPx": 9,
-        "expireDate": "",
-        "transactTime": "2019-01-23 15:59:04",
-        "text": "test",
-        "fixOrderId": "",
-        "avgPx": 9,
-        "lastPx": 9,
-        "lastQty": 9,
-        "cumQty": 9,
-        "displayQty": 9,
-        "execId": "",
-        "ordStatus": "",
-        "execType": "",
-        "leavesQty": "",
-        "securityExchange": "",
-        "contraBroker": "",
-        "partyOrigTrader": ""
-        }
-    ],
+    "market_segments": [],
     "reference_data": [
         {
             "id": "1",
