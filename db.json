@@ -95,6 +95,11 @@
         }, {
             "id": "2",
             "instance": "demo-test",
+            "brokerId": "2",
+            "account": "9001"
+        }, {
+            "id": "3",
+            "instance": "demo-test",
             "brokerId": "1",
             "account": "8000"
         }
