@@ -73,17 +73,6 @@
         "partyOrigTrader": ""
         }
     ],
-    "audit_log": [
-        {
-            "id": "1",
-            "instance": "demo-test",
-            "node": "nodo-test",
-            "userId": "1",
-            "userSessionId": "usid",
-            "userSessionType": "ustyp",
-            "dataB": "{\"valor\": \"zaraza\"}"
-        }
-    ],
     "reference_data": [
         {
             "id": "1",
