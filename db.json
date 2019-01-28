@@ -96,5 +96,18 @@
             "name": "rx_DDA",
             "status": "online"
         }
+    ],
+    "broker_accounts": [
+        {
+            "id": "1",
+            "instance": "demo-test",
+            "brokerId": "2",
+            "account": "9000"
+        }, {
+            "id": "2",
+            "instance": "demo-test",
+            "brokerId": "1",
+            "account": "8000"
+        }
     ]   
 }
